@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NoopyNoob
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Java
+
 
 <!---
 NoopyNoob/NoopyNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
